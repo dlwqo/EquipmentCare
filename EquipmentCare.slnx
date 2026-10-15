@@ -1,2 +1,11 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EquipmentCare.Application/EquipmentCare.Application.csproj" />
+    <Project Path="src/EquipmentCare.Domain/EquipmentCare.Domain.csproj" />
+    <Project Path="src/EquipmentCare.Infrastructure/EquipmentCare.Infrastructure.csproj" />
+    <Project Path="src/EquipmentCare.Web/EquipmentCare.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EquipmentCare.Tests/EquipmentCare.Tests.csproj" />
+  </Folder>
 </Solution>
